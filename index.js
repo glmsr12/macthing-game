@@ -113,15 +113,10 @@ function flipCard() {
 
 createBoard();
 
-//restart button
-
-function refreshPage() {
-  window.location.reload();
-}
-
 //confetti animation
 const jsConfetti = new JSConfetti();
-function confettiMy() {
-  jsConfetti.addConfetti();
+async function confettiMy() {
+  await jsConfetti.addConfetti();
+  window.location.reload();
 }
-document.querySelector('.button-85').addEventListener('click', confettiMy);
+document.querySelector('.btn').addEventListener('click', confettiMy);
