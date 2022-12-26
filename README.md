@@ -17,7 +17,8 @@ I created Matching Game, also known as Memory Game is a simple
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1710" alt="matching-game" src="https://user-images.githubusercontent.com/91402082/209491070-d7b3bb4f-e451-4938-a49e-17254f329a97.png">
+
 
 
 ## 🔗 Links
